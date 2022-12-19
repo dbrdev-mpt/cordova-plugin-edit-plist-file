@@ -43,6 +43,9 @@
                 <string>instagram</string>
             </array>
         </config-file>
+        <edit-config target="NSLocationWhenInUseUsageDescription" file="*-Info.plist" mode="merge">
+                <string>your custom text here Testing Pipaw</string>
+        </edit-config>
         
         
         
